@@ -1,2 +1,2 @@
-# 2023-spring-computer-12-PRO
+# 2023-spring-computer-12-ChatSpring
 PZM LZT LW
