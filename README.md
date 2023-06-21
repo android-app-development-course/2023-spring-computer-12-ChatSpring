@@ -12,3 +12,4 @@
 文泉ChatSpring——让您的生活、学习与工作变得更加便捷、高效，开启全新的智慧之旅！🌟
 
 [源码](https://github.com/Goat11/ChatSpring)
+[APK](https://chatspring.goatpeng.cn/)
