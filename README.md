@@ -1,4 +1,14 @@
 # 2023-spring-computer-12-ChatSpring
-彭孜勉 李泽涛 李炜
+# 文泉ChatSpring
 
-我们的APP《文泉chatSpring》，是一款全面的基于GPT的文本生成工具，旨在为用户提供各种文本生成功能，包括预制的工具和用户自定义工具。我们的APP还提供prompt库功能，帮助用户保存自己的prompt，并且可以在后续快速使用。
+一款基于GPT的AI工具箱！🚀
+
+文泉Chatspring致力于**协助您轻松打造专属的AI应用**，通过预制的prompt实现一键式体验，将创意源源不断地转化为现实。✨
+
+只需输入OpenAI的**API KEY**，便可尽享文泉Chatspring带来的智能便利。我们持续为您提供更优质、更高效的体验，让您免去额外费用。🎉
+
+在我们丰富多样的**应用工坊**中，您可畅游于用户分享的各类应用，激发您的创意灵感。💡
+
+文泉ChatSpring——让您的生活、学习与工作变得更加便捷、高效，开启全新的智慧之旅！🌟
+
+[源码](https://github.com/Goat11/ChatSpring)
